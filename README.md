@@ -14,6 +14,8 @@ graph LR
     style Agent fill:#0055ff,stroke:#333,stroke-width:2px,color:#fff
     style AppSheet fill:#ff9900,stroke:#333,stroke-width:2px,color:#fff
 
+
+
 Overview
 
 CoreTemp Agent is an autonomous "Physical AI" industrial agent designed for frozen dough manufacturing. Acting as an edge-level Factory Manager, it mitigates product degradation (clumping for HO.RE.CA markets) and prevents unnecessary thermal load transfers to storage warehouses by dynamically adjusting tunnel cooling time and line speed.
